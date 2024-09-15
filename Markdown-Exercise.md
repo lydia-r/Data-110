@@ -1,8 +1,8 @@
 ## Author 
 
-Lydia Akalu
+Name: Lydia Akalu
 
-09/14/2024
+Data: 09/14/2024
 ### Example of ***bold and italic*** text
 **I am from Ethiopia**
 
@@ -21,7 +21,7 @@ Lydia Akalu
 ## Link
 [Linkdeln Profile](https://www.linkedin.com/in/lydia-akalu-1274b5260)
 ## Image
-![My Favorite place]()
+![My Favorite place](beach_pic.jpg)
 ## Favorite Quote
 > I can do all things through him who strengthens me
 >
@@ -49,6 +49,5 @@ I love reading book and I enjoy traveling
 - [ ] Submit assignment 
 - [ ] Go to work
 
-##### Footnote
-
-[^1]By the end of this lecture I hope to have more knowledge about data and the science behind it. .
+#### Footnote.[^1]
+[^1]: By the end of this lecture I hope to have more knowledge about data and the science behind it.
