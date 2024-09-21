@@ -21,7 +21,7 @@ Data: 09/14/2024
 ## Link
 [Linkdeln Profile](https://www.linkedin.com/in/lydia-akalu-1274b5260)
 ## Image
-![My Favorite place](beach_pic.jpg)
+![My Favorite place](Dataset/beach_pic.jpg)
 ## Favorite Quote
 > I can do all things through him who strengthens me
 >
